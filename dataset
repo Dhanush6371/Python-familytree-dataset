@@ -1,0 +1,7 @@
+Child,Parent,Relationship
+John,Root,Parent
+Mary,Root,Parent
+Tom,John,Parent
+Emily,John,Parent
+David,Mary,Parent
+Emma,Mary,Parent
